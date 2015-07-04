@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EBF5F4E9-D91C-4DE4-A852-861E0B90C680</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShiwakeTrainingClass2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3435BB0349FA99DB8AA591727E5AC47505B47C7F</key>
+		<string>https://github.com/Xinext/ShiwakeTrainingClass2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShiwakeTrainingClass2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3435BB0349FA99DB8AA591727E5AC47505B47C7F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Xinext/ShiwakeTrainingClass2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3435BB0349FA99DB8AA591727E5AC47505B47C7F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3435BB0349FA99DB8AA591727E5AC47505B47C7F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ShiwakeTrainingClass2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

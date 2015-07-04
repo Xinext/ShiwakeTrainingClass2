@@ -611,6 +611,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ShiwakeTrainingClass2/ShiwakeTrainingClass2-Prefix.pch";
 				INFOPLIST_FILE = "ShiwakeTrainingClass2/ShiwakeTrainingClass2-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
@@ -671,6 +672,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ShiwakeTrainingClass2/ShiwakeTrainingClass2-Prefix.pch";
 				INFOPLIST_FILE = "ShiwakeTrainingClass2/ShiwakeTrainingClass2-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -762,6 +764,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ShiwakeTrainingClass2/ShiwakeTrainingClass2-Prefix.pch";
 				INFOPLIST_FILE = "ShiwakeTrainingClass2/ShiwakeTrainingClass2-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
@@ -778,6 +781,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ShiwakeTrainingClass2/ShiwakeTrainingClass2-Prefix.pch";
 				INFOPLIST_FILE = "ShiwakeTrainingClass2/ShiwakeTrainingClass2-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
